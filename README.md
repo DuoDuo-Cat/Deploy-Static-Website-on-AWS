@@ -95,7 +95,7 @@ The deployment utilizes the following AWS resources:
 
 ## Diagram
 
-![Architecture Diagram](link-to-architecture-diagram)
+![Architecture Diagram](Reference Architecture.png)
 
 ## Additional Notes
 
