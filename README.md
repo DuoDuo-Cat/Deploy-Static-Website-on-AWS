@@ -95,7 +95,7 @@ The deployment utilizes the following AWS resources:
 
 ## Diagram
 
-![Alt text](Reference Architecture.png)
+![Alt text](https://github.com/DuoDuo-Cat/Deploy-Static-Website-on-AWS/blob/331c06649fb0edaa52e426aeb7e4764a04d6fa0f/Reference%20Architecture.png)
 
 ## Additional Notes
 
